@@ -1,6 +1,7 @@
 ## JavaScript is ...
 a `dynamic`, `weakly typed`, `prototype-based` language with `first-class functions`.
 
+
 ## JS is Dynamic
 ```js
 //Compilation and execution happen together.
